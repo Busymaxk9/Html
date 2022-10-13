@@ -1,2 +1,2 @@
-# HTML-1
+# HTML
 HTML Beginners
