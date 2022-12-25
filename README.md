@@ -1,2 +1,2 @@
-# HTML
-HTML Beginners
+#JS
+JS Beginners
